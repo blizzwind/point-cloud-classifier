@@ -6,6 +6,8 @@ A simple point cloud classifier.
     ├── input
         ├── train (las files for training)
         └── test (las files for predicting)
+    ├── train.py
+    └── test.py
 
 ### note
 currently classifying ground point only <br>
